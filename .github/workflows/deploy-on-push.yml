@@ -32,7 +32,7 @@ jobs:
                 with:
                     context: .
                     push: true
-                    tags: cxttonn/Lab12
+                    tags: cxttonn/lab12
             -
                 name: copy file via ssh password
                 uses: appleboy/scp-action@v0.1.4
